@@ -1,5 +1,5 @@
 describe("Deep Equal", function() {
-  const deepEqual = require('../lib/deep-equal');
+  const deepEqual = require('../lib/deepEqual');
   
   it('should return true if obj1 is {} and obj2 is {}', () => {
     const obj1 = {}
