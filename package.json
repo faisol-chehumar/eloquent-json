@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": { 
-    "test": "jasmine spec/simulateForLoop.spec.js"
+    "test": "jasmine spec/every.spec.js"
   },
   "keywords": [],
   "author": "",
