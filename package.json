@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": { 
-    "test": "jasmine spec/group.spec.js"
+    "test": "jasmine spec/robot.spec.js"
   },
   "keywords": [],
   "author": "",
